@@ -1,9 +1,8 @@
 {
-  "name": "chatbotbackend",
+  "name": "app",
   "version": "1.0.0",
-  "description": "## Authors: Donna Ada, Kao Saelor, Kenya Womack, Hayden Cooper, Tricia Sawyer, Reece Renninger",
-  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jest --verbose --coverage"
   },
   "keywords": [],
@@ -19,5 +18,8 @@
   "devDependencies": {
     "jest": "^29.5.0",
     "serverless-offline": "^12.0.4"
+  },
+  "volta": {
+    "node": "18.19.0"
   }
 }
