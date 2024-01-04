@@ -1,0 +1,4 @@
+Timestamp: 2024-01-03T15:24:30.400Z, User: U06CTJQJTBJ, Projects: 2, Work Hours: 2, Extra Capacity: yes, Additional Hours: 10
+Timestamp: 2024-01-03T15:36:58.777Z, User: U06CTJQJTBJ, Projects: 2, Work Hours: 24, Extra Capacity: yes, Additional Hours: 10
+Timestamp: 2024-01-03T15:38:22.172Z, User: U06BQ9AJVD5, Projects: 0, Work Hours: 34, Extra Capacity: yes, Additional Hours: 43
+Timestamp: 2024-01-03T15:41:05.269Z, User: U06BQ9AJVD5, Projects: 1, Work Hours: 2, Extra Capacity: yes, Additional Hours: 30
